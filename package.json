@@ -1,0 +1,12 @@
+{
+  "name": "http_node",
+  "version": "1.0.0",
+  "description": "http node example coursera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "anand",
+  "license": "ISC"
+}
